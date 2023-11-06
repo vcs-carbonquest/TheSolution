@@ -1,18 +1,32 @@
 #include <Arduino.h>
 
-// put function declarations here:
-int myFunction(int, int);
+//Set up I/O Pins
 
+//Setup
 void setup() {
-  // put your setup code here, to run once:
-  int result = myFunction(2, 3);
+  //Set Pinout
 }
 
 void loop() {
-  // put your main code here, to run repeatedly:
-}
+  //turn on pump
 
-// put function definitions here:
-int myFunction(int x, int y) {
-  return x + y;
+  //turn off pump when 260 gallons of water added
+
+  //Add Milk of Magnesia
+
+  //Close Everything
+
+  //Electro Dialysis
+
+  //Drain Chamber - Faucet 1 -> bucket 1
+
+  //Close faucet 1
+
+  //Drain funky stuff - Faucet 2 -> Bucket 2
+
+  //close faucet 2
+
+  //Shower - clean container
+
+  //End one cycle
 }
